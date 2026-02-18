@@ -1,0 +1,9 @@
+Melissa Meixner Schlewitz utilized focus groups and survey data as a foundational requirement to ensure that digital content was both **technically accurate** and **aligned with the specific needs of the users** 1-3.  
+According to the sources, these data-gathering strategies shaped the content in several ways:
+
+* **Informing Content Migration and Consolidation:** Before starting development, she conducted focus groups and gathered survey data specifically from **customers and support technicians** 1, 4, 5\. This input guided the migration of over 800 legacy help files into **300 optimized knowledge-based articles** by identifying which information was most critical for users 1, 2\.  
+* **Optimizing for Discoverability:** The feedback allowed her to **categorize and optimize articles for search** 1, 6\. By understanding the language and common issues reported by users and technicians, she could ensure the WordPress-based articles were easily findable, which directly contributed to a **94% reduction in chat volume** 1, 2\.  
+* **Ensuring Role-Specific Relevance:** Her collaboration with product development and customer education teams ensured that training materials—such as the 15 new e-learning courses created in Articulate Rise—met the unique needs of **four distinct veterinary roles** 1, 3, 7\.  
+* **Driving Continuous Improvement:** Beyond the initial design, she used feedback to **update and refine training programs** as needed 3, 8, 9\. This iterative approach, informed by user data, pushed the Practice Information Management Software (PIMS) **satisfaction rate (CSAT) to a three-year high** 1, 6\.  
+* **Targeting Performance Gaps:** Her use of focus groups and surveys aligns with her broader competency in **needs analysis**, which she used to tailor effective training strategies and evaluate learning outcomes 10-12.
+
