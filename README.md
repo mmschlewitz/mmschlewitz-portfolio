@@ -126,9 +126,3 @@ Modify `css/styles.css` to customize:
 - LinkedIn: [melissa-meixner-schlewitz](https://linkedin.com/in/melissa-meixner-schlewitz)
 
 ## License
-
-© 2026 Melissa Meixner-Schlewitz. All rights reserved.
-
----
-
-Built with care and attention to detail. Designed for optimal user experience.
